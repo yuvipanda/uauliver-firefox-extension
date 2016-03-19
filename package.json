@@ -1,0 +1,19 @@
+{
+  "title": "UAuliver",
+  "name": "ualiver",
+  "version": "0.0.1",
+  "description": "Randomizes your User Agent with funky characters",
+  "main": "index.js",
+  "author": "Yuvi Panda <yuvipanda@riseup.net>",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ],
+  "dependencies": {
+    "lodash.random": "^3.1.3"
+  }
+}
