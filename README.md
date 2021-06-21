@@ -1,4 +1,6 @@
-#UAuliver
+**Archived:** Just don't
+
+# UAuliver
 
 UAuliver (prononunced 'oooh-Oliver') is a simple firefox extension that
 resets your user agent every few seconds to a randomly generated series
